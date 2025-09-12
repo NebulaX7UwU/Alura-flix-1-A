@@ -1,3 +1,8 @@
 body{
-    background-color: gray;
+    background-color: rgb(19, 18, 19);
+    color:rgb(255, 0, 0);
+    font-family: "Tagesschrift", system-ui;
+}
+header{
+      font-size: 50px;
 }
