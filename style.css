@@ -4,8 +4,12 @@ body{
     font-family: "Tagesschrift", system-ui;
 }
 header{
-      font-size: 50px;
+      font-size: 80px;
+      border:solid 5px black;
 }
 h1{
     font-size: 30px;
 }
+p{
+    font-size: small;
+}   
